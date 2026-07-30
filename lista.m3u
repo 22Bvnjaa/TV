@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tvn.jpg", TVN HD¹
+http://45.162.193.35/TVN/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tvn.jpg", TVN HD²
+http://38.226.49.253:8000/play/a06c/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/mega.jpg", MEGA HD¹
+http://38.226.49.253:8000/play/a0cm/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/mega.jpg", MEGA HD²
+http://45.232.210.1:18000/play/a07f/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/chv.jpg", Chilevision HD¹
+http://38.226.49.253:8000/play/a0c9/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/chv.jpg", Chilevision HD²
+http://45.232.210.1:18000/play/a087/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/canal13.jpg", Canal 13 HD¹
+http://45.232.210.1:18000/play/a088/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/canal13.jpg", Canal 13 HD²
+http://45.232.210.1:18000/play/a07g/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tntsports3.jpg", TNT Sports HD
+http://clbpktstvhls-1.clarovideo.com/bpk-tv/TNTSPHD/hls_fk/TNTSPHD/TNTSPHD-audio_100800_spa=98800-video=4141200.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tntsports2.jpg", TNT Sports Premium HD¹
+http://clbpktstvhls-1.clarovideo.com/bpk-tv/TNTSP3HD/hls_fk/TNTSP3HD-audio_100800_spa=98800-video=3888000.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tntsports2.jpg", TNT Sports Premium HD²
+http://45.232.210.1:18000/play/a05l/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tntsports2.jpg", TNT Sports Premium HD³
+http://38.226.49.253:8000/play/a06f/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/foxsports.jpg", FOX Sports HD
+http://45.134.141.161:2200/ARG/FOX_Sports_1_Argentina_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/foxsports2.jpg", FOX Sports 2 HD
+http://45.134.141.161:2200/ARG/FOX_Sports_2_Argentina_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/foxsports3.jpg", FOX Sports 3 HD
+http://45.134.141.161:2200/ARG/FOX_Sports_3_Argentina_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://cdn-1.webcatalog.io/catalog/directv/directv-icon-filled-256.png", DIRECTV Sports HD
+http://200.37.149.6:8000/play/a0ur/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn-1.webcatalog.io/catalog/directv/directv-icon-filled-256.png", DIRECTV Sports HD
+http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://cdn-1.webcatalog.io/catalog/directv/directv-icon-filled-256.png", DIRECTV Sports 2 HD
+http://200.37.149.6:8000/play/a0us/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn-1.webcatalog.io/catalog/directv/directv-icon-filled-256.png", DIRECTV Sports 2 HD
+http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://cdn-1.webcatalog.io/catalog/directv/directv-icon-filled-256.png", DIRECTV Sports+ HD
+http://200.37.149.6:8000/play/a0ud/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn-1.webcatalog.io/catalog/directv/directv-icon-filled-256.png", DIRECTV Sports Fight HD
+http://45.134.141.161:2200/ARG/DTV_SP_FIGHT/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/aa/f9/82/aaf98299e29b658056f69f30d41a8f39.jpg", ESPN Deportes HD
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/espn.jpg", ESPN ARG HD¹
+http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/espn.jpg", ESPN ARG HD²
+http://179.60.51.134:8888/ESPN/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/espn.jpg", ESPN HD
+http://38.226.49.253:8000/play/a07l/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/espn2.jpg", ESPN 2 HD¹
+http://179.60.51.134:8888/ESPN2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/espn2.jpg", ESPN 2 HD²
+http://38.226.49.253:8000/play/a06g/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/espn3.jpg", ESPN 3 HD
+http://38.226.49.253:8000/play/a07g/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/espn4.jpg", ESPN 4 HD
+http://38.226.49.253:8000/play/a065/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/espn5.jpg", ESPN 5 HD
+http://38.226.49.253:8000/play/a078/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/espn6pe.jpg", ESPN 6 HD
+http://38.226.49.253:8000/play/a05p/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/espn7pe.jpg", ESPN 7 HD
+http://38.226.49.253:8000/play/a087/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/espnmas.jpg", ESPN Premium HD
+http://181.65.155.51:8000/play/a0p3/index.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/707312354497839104/hVG1lica_200x200.jpg", ESPN ARG Eventos HD
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://files.softicons.com/download/application-icons/circle-icons-by-martz90/png/256x256/eurosport.png", Eurosport 1 HD
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://files.softicons.com/download/application-icons/circle-icons-by-martz90/png/256x256/eurosport.png", Eurosport 2 HD
+http://45.134.141.161:2200/ARG/Eurosport_2_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/236x/fc/6c/66/fc6c664d6b50279af9dff68189ac2a3b.jpg", SkySports LaLiga HD
+http://181.119.177.253:8000/play/a0dz/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/discoverykids.jpg", Discovery Kids HD
+http://38.226.49.253:8000/play/a069/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/disneyjr.jpg", Disney Junior HD
+http://179.60.51.134:8888/DISNEY-JR/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/disneychannel.jpg", Disney Channel HD
+http://38.226.49.253:8000/play/a07k/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/cn.jpg", Cartoon Network HD
+http://179.60.51.134:8888/CARTOON-NETWORK/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/cartoonito.jpg", Cartoonito HD
+http://45.134.141.161:2200/ARG/Cartoonito/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/nickelodeon.jpg", Nickelodeon HD
+http://38.226.49.253:8000/play/a06k/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/nickjr.jpg", Nick Junior HD
+http://38.226.49.253:8000/play/a03l/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/animalplanet.jpg", Animal Planet HD
+https://clbpktstvhls-1.clarovideo.com/bpk-tv/ANIMALPLANETHD/hls_fk/ANIMALPLANETHD-audio_100800_spa=98800-video=3888000.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/natgeo.jpg", National Geographic HD¹
+http://38.226.49.253:8000/play/a05x/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/natgeo.jpg", National Geographic HD²
+http://45.162.193.35/NATGEO/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/history.jpg", History HD
+http://38.226.49.253:8000/play/a0gc/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/discovery.jpg", Discovery HD
+http://38.226.49.253:8000/play/a05s/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/investigation.jpg", Discovery ID HD
+http://38.226.49.253:8000/play/a063/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tlc.jpg", Discovery TLC HD
+http://38.226.49.253:8000/play/a03n/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/discoverytheater.jpg", Discovery Theather HD
+http://38.226.49.253:8000/play/a06b/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/discoveryworld.jpg", Discovery World HD
+http://38.226.49.253:8000/play/a07d/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/homeandhealth.jpg", Discovery h&h HD
+http://38.226.49.253:8000/play/a0an/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/discoveryturbo.jpg", Discovery Turbo HD
+http://45.134.141.161:2200/ARG/Discovery_Turbo_HD/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/e.jpg", E! HD
+http://45.134.141.161:2200/ARG/E_Entertainment/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/holatv.jpg", HolaTV HD
+http://38.226.49.253:8000/play/a06j/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/aande.jpg", A&E HD
+http://38.226.49.253:8000/play/a05u/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/amc.jpg", AMC HD
+http://38.226.49.253:8000/play/a066/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/axn.jpg", AXN HD
+http://38.226.49.253:8000/play/a062/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/cinecanal.jpg", Cinecanal HD
+http://38.226.49.253:8000/play/a05z/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/cinemax.jpg", Cinemax HD
+http://45.134.141.161:2200/ARG/Cinemax_HD/index.m3u8
+#EXTINF:0 tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_dhe.jpg", DHE HD
+http://38.226.49.253:8000/play/a07s/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/paramount.jpg", Paramount Channel HD
+http://45.134.141.161:2200/ARG/Paramount_Channel_HD/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/hbo.jpg", HBO HD
+http://15.204.246.24:8080/HBOHD/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/hbo2.jpg", HBO 2 HD
+http://15.204.246.24:8080/HBO2HD/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/hboplus.jpg", HBO Plus HD
+http://15.204.246.24:8080/HBOPlusHD/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/hbofamily.jpg", HBO Family HD
+http://38.226.49.253:8000/play/a07v/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/hboxtreme.jpg", HBO Xtreme HD
+http://177.53.153.21:8000/play/a187/index.m3u8
+#EXTINF:0 tvg-logo="https://dn711100.ca.archive.org/0/items/stevechatfield27_gmail_FxHd/fx%20hd.png", FX HD
+http://38.226.49.253:8000/play/a07c/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-hd_m.png", ST☆R Channel HD
+http://45.162.193.35/STAR_CHANNEL/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/suc.jpg", Studio Universal HD
+http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/goldenplus.jpg", Golden HD
+http://38.226.49.253:8000/play/a03j/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/sony.jpg", Sony HD
+http://38.226.49.253:8000/play/a060/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/space.jpg", Space HD
+http://38.226.49.253:8000/play/a064/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/warner.jpg", Warner HD
+http://38.226.49.253:8000/play/a061/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/universal.jpg", Universal HD
+http://38.226.49.253:8000/play/a077/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tnt.jpg", TNT HD
+http://38.226.49.253:8000/play/a05y/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tntseries.jpg", TNT Series HD
+http://38.226.49.253:8000/play/a07b/index.m3u8
+#EXTINF:0 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tntnovelas.jpg", TNT Novelas HD
+http://38.226.49.253:8000/play/a07f/index.m3u8
